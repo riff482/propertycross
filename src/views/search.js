@@ -5,6 +5,8 @@ var Search = Backbone.View.extend({
     }
 });
 
+module.exports = Search;
+
 var template =
     '<div class="search-top">'
         +'<div class="inner">'

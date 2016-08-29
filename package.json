@@ -1,0 +1,28 @@
+{
+  "name": "property-cross",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "extract-text-webpack-plugin": "^1.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.24.0",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riff482/propertycross.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riff482/propertycross/issues"
+  },
+  "homepage": "https://github.com/riff482/propertycross#readme"
+}

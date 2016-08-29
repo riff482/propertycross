@@ -1,0 +1,43 @@
+body, html {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  color: #777;
+  position: relative;
+}
+
+a, button {
+  .transition(0.3s all 0s);
+}
+
+.inner {
+  max-width: 1024px;
+  position: relative;
+  padding: 0 10px;
+  margin: 0 auto;
+
+  &:after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+}
+
+.btn {
+  display: inline-block;
+  color: #fff;
+  border: 0;
+  padding: 7px 10px;
+
+  &button {
+    padding: 9px 10px;
+  }
+
+  &.blue {
+    background-color: #0071b5;
+
+    &:hover {
+      background-color: #004a77;
+    }
+  }
+
+}
