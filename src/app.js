@@ -4,7 +4,7 @@ require('./../node_modules/backbone/backbone-min.js');
 
 require('./../less/style.less');
 
-var Search = require('./views/search');
+var Search = require('./view/search');
 
 var Router = Backbone.Router.extend({
     routes: {
