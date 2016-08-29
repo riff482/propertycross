@@ -1,7 +1,7 @@
 # PropertyCross
 
 Install:  
-npm install  
+npm install
 
 At each start of the session:
 webpack --watch
